@@ -1,4 +1,5 @@
 {
+  "username": "LucaasHenrique",
   "widgets": [
     {
       "widgetId": "header",
@@ -11573,23 +11574,6 @@
       "instanceId": "widget_1789753887242_3"
     },
     {
-      "widgetId": "footer",
-      "name": "Footer Widget",
-      "position": {
-        "x": 0,
-        "y": 586
-      },
-      "size": {
-        "width": 800,
-        "height": 50
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1789753887242_4"
-    },
-    {
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
@@ -11625,7 +11609,7 @@
       "name": "Bio Widget",
       "position": {
         "x": 0,
-        "y": 644
+        "y": 578
       },
       "size": {
         "width": 800,
@@ -11644,7 +11628,7 @@
       "name": "Social-media Widget",
       "position": {
         "x": 0,
-        "y": 828
+        "y": 762
       },
       "size": {
         "width": 800,
@@ -11677,5 +11661,10 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "cyberpunk"
+  "templateId": "cyberpunk",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1789756576413_0yhhp",
+    "updatedAt": "2026-09-18T18:36:19.866Z"
+  }
 }
